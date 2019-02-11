@@ -13,4 +13,4 @@ right: )
 
 Rim Lighting: one is with power, the other use if statement
 
-![image](https://github.com/QianMang/Unity-Shader/blob/master/RimLight.png)
+![image](https://github.com/QianMang/Unity-Shader/blob/master/RimLight2.png)
