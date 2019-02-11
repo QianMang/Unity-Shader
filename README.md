@@ -10,3 +10,7 @@ Cube Map environment： (Left: flat shading with 0 smooth Angle Normal calculati
 right: )
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/CubeMapEnvironment.gif)
+
+Rim Lighting: one is with power, the other use if statement
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/RimLight.png)
