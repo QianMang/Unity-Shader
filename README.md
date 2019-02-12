@@ -19,6 +19,7 @@ Cut off:
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Cut%20off/CutOff.gif)
 
-Blinn phong_ specular light:
+Blinn phong_ specular light: (Difference between Blinn_phong and phong shading:
+https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Blinn_specular/Blinn_specular.png)
