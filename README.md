@@ -14,3 +14,11 @@ right: )
 Rim Lighting: one is with power, the other use if statement
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/RimLight/RimLight2.png)
+
+Cut off:
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Cut%20off/CutOff.gif)
+
+Blinn phong_ specular light:
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Blinn_specular/Blinn_specular.png)
