@@ -23,3 +23,7 @@ Blinn phong_ specular light: (Difference between Blinn_phong and phong shading:
 https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Blinn_specular/Blinn_specular.png)
+
+ToonRamp: easy toon effect with new lighting model
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/ToonRamp/effect.png)
