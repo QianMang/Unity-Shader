@@ -27,3 +27,7 @@ https://learnopengl.com/Advanced-Lighting/Advanced-Lighting)
 ToonRamp: easy toon effect with new lighting model
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/ToonRamp/effect.png)
+
+Hologram: hologram effect by combining rim lighting and transparent
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Hologram/Hologram.gif)
