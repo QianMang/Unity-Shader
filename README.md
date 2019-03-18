@@ -1,4 +1,4 @@
-# Unity-Shader
+# Unity-Shader (couple of basic shaders to review)
 Multiple unity shaders
 
 
