@@ -1,4 +1,4 @@
-# Unity-Shader
+# Unity-Shader (couple of basic shaders for future review)
 Multiple unity shaders
 
 
@@ -31,3 +31,7 @@ ToonRamp: easy toon effect with new lighting model
 Hologram: hologram effect by combining rim lighting and transparent
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Hologram/Hologram.gif)
+
+Transparent(Alpha blend): easy transparent with cull off.
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Transparent/cullBox.gif)
