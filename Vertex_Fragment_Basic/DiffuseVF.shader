@@ -53,7 +53,10 @@
 				
 				fixed4 col = tex2D(_MainTex, i.uv);
 				fixed shadow = SHADOW_ATTENUATION(i);
+				//shadow will be near 0 (black) where darkest
 				col.rgb *= i.diff * shadow;
+				//col.rgb *= i.diff *  (shadow < 0.2 ? float3(1,0,0):shadow);     //red shadow
+				
 				return col;
 			}
 			ENDCG
