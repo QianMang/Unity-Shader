@@ -31,3 +31,7 @@ Hologram: hologram effect by combining rim lighting and transparent
 Transparent(Alpha blend): easy transparent with cull off.
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Basic%20Shader/Transparent/cullBox.gif)
+
+Outline :
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/Outline/04.png)
