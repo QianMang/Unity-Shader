@@ -35,3 +35,7 @@ Transparent(Alpha blend): easy transparent with cull off.
 Outline :
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/Outline/04.png)
+
+Glass effect:
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/Glass/glass.gif)
