@@ -39,3 +39,8 @@ Outline :
 Glass effect:
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/Glass/glass.gif)
+
+Plasma:  (formula)https://www.bidouille.org/prog/plasma
+
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/Plasma/plasma.gif)
+
