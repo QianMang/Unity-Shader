@@ -1,0 +1,5 @@
+Cull  	Cull Back|Front|Off
+ZTest 	ZTest Less Greater | LEqual | GEqual | Equal | NotEqual | Always
+ZWrite	ZWrite On | Off
+Blend 	Blend SrcFactor DstFactor
+(other Blend: https://docs.unity3d.com/Manual/SL-Blend.html )
