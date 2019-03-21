@@ -1,0 +1,8 @@
+Int                                
+Float
+Range(min,max)	
+Color
+Vector
+2D		"white"{}
+Cube		"white"{}
+3D		"white"{}
