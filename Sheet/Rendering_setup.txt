@@ -1,3 +1,5 @@
+Can be use in Pass of SubShader
+
 Cull  	Cull Back|Front|Off
 ZTest 	ZTest Less Greater | LEqual | GEqual | Equal | NotEqual | Always
 ZWrite	ZWrite On | Off
