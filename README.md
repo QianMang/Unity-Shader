@@ -7,7 +7,7 @@ Bump Map:
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Basic%20Shader/BumpMap/bump_map.gif)
 
 Cube Map environment： (Left: flat shading with 0 smooth Angle Normal calculation;    Mid: phong shading with default import normal  ;
-right: )
+)
 
 ![image](https://github.com/QianMang/Unity-Shader/blob/master/Basic%20Shader/CubeMap_Environment/CubeMapEnvironment.gif)
 
