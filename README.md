@@ -46,4 +46,4 @@ Plasma:  (formula)https://www.bidouille.org/prog/plasma
 
 Can be saw behind others:  use two pass, one for ZWrite Off hologram, one for RampToon
 
-![image](
+![image](https://github.com/QianMang/Unity-Shader/blob/master/Advanced%20Shader/SawBehindObjects/hide.gif)
